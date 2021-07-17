@@ -758,7 +758,7 @@ button {
 }
 .contact-form-checkobx:checked + .contact-form-checkbox-label::before {
   background-color: var(--accent-color);
-  background-image: url(/images/iconcheck.svg);
+  background-image: url(../images/sprite/iconcheck.svg);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
